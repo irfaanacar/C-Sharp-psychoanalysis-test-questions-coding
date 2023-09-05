@@ -1,0 +1,10 @@
+C:\Users\irfaa\OneDrive\Masaüstü\C#\PsikoAnalizTestUygulamasi\bin\Debug\PsikoAnalizTestUygulamasi.exe.config
+C:\Users\irfaa\OneDrive\Masaüstü\C#\PsikoAnalizTestUygulamasi\bin\Debug\PsikoAnalizTestUygulamasi.exe
+C:\Users\irfaa\OneDrive\Masaüstü\C#\PsikoAnalizTestUygulamasi\bin\Debug\PsikoAnalizTestUygulamasi.pdb
+C:\Users\irfaa\OneDrive\Masaüstü\C#\PsikoAnalizTestUygulamasi\obj\Debug\PsikoAnalizTestUygulamasi.csproj.AssemblyReference.cache
+C:\Users\irfaa\OneDrive\Masaüstü\C#\PsikoAnalizTestUygulamasi\obj\Debug\PsikoAnalizTestUygulamasi.Form1.resources
+C:\Users\irfaa\OneDrive\Masaüstü\C#\PsikoAnalizTestUygulamasi\obj\Debug\PsikoAnalizTestUygulamasi.Properties.Resources.resources
+C:\Users\irfaa\OneDrive\Masaüstü\C#\PsikoAnalizTestUygulamasi\obj\Debug\PsikoAnalizTestUygulamasi.csproj.GenerateResource.cache
+C:\Users\irfaa\OneDrive\Masaüstü\C#\PsikoAnalizTestUygulamasi\obj\Debug\PsikoAnalizTestUygulamasi.csproj.CoreCompileInputs.cache
+C:\Users\irfaa\OneDrive\Masaüstü\C#\PsikoAnalizTestUygulamasi\obj\Debug\PsikoAnalizTestUygulamasi.exe
+C:\Users\irfaa\OneDrive\Masaüstü\C#\PsikoAnalizTestUygulamasi\obj\Debug\PsikoAnalizTestUygulamasi.pdb
